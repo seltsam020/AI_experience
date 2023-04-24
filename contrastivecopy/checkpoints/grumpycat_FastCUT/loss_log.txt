@@ -1,0 +1,5 @@
+================ Training Loss (Tue Jun 14 09:42:06 2022) ================
+(epoch: 1, iters: 100, time: 0.146, data: 0.283) G_GAN: 0.304 D_real: 0.242 D_fake: 0.263 G: 43.087 NCE: 42.783 
+(epoch: 1, iters: 200, time: 0.165, data: 0.002) G_GAN: 0.306 D_real: 0.176 D_fake: 0.246 G: 40.698 NCE: 40.392 
+(epoch: 1, iters: 300, time: 0.178, data: 0.003) G_GAN: 0.285 D_real: 0.156 D_fake: 0.287 G: 39.031 NCE: 38.746 
+================ Training Loss (Tue Jun 14 09:43:45 2022) ================
